@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "private": true,
+  "author": "Emilio J. Grande <emilio@ejgrande.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "socket.io": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
